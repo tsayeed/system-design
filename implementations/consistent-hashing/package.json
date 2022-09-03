@@ -1,0 +1,19 @@
+{
+  "name": "consistent-hashing",
+  "version": "1.0.0",
+  "description": "Implementation of distributed consistent hashing algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "consistent-hashing",
+    "system-design",
+    "algorithm"
+  ],
+  "author": "Tahsin Sayeed",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.0.2"
+  }
+}
